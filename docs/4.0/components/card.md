@@ -150,7 +150,7 @@ Card headers can be styled by adding `.card-header` to `<h*>` elements.
   </div>
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -392,7 +392,7 @@ Cards include their own variant classes for quickly changing the `background-col
 <div class="card card-inverse card-primary mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -400,7 +400,7 @@ Cards include their own variant classes for quickly changing the `background-col
 <div class="card card-inverse card-success mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -408,7 +408,7 @@ Cards include their own variant classes for quickly changing the `background-col
 <div class="card card-inverse card-info mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -416,7 +416,7 @@ Cards include their own variant classes for quickly changing the `background-col
 <div class="card card-inverse card-warning mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -424,7 +424,7 @@ Cards include their own variant classes for quickly changing the `background-col
 <div class="card card-inverse card-danger text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -442,7 +442,7 @@ In need of a colored card, but not the hefty background colors they bring? Repla
 <div class="card card-outline-primary mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -450,7 +450,7 @@ In need of a colored card, but not the hefty background colors they bring? Repla
 <div class="card card-outline-secondary mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -458,7 +458,7 @@ In need of a colored card, but not the hefty background colors they bring? Repla
 <div class="card card-outline-success mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -466,7 +466,7 @@ In need of a colored card, but not the hefty background colors they bring? Repla
 <div class="card card-outline-info mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -474,7 +474,7 @@ In need of a colored card, but not the hefty background colors they bring? Repla
 <div class="card card-outline-warning mb-3 text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -482,7 +482,7 @@ In need of a colored card, but not the hefty background colors they bring? Repla
 <div class="card card-outline-danger text-center">
   <div class="card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
     </blockquote>
   </div>
@@ -650,7 +650,7 @@ Cards can be organized into [Masonry](http://masonry.desandro.com)-like columns 
   </div>
   <div class="card p-3">
     <blockquote class="card-block card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>
         <small class="text-muted">
           Someone famous in <cite title="Source Title">Source Title</cite>
@@ -688,7 +688,7 @@ Cards can be organized into [Masonry](http://masonry.desandro.com)-like columns 
   </div>
   <div class="card p-3 text-right">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
       <footer>
         <small class="text-muted">
           Someone famous in <cite title="Source Title">Source Title</cite>

@@ -429,7 +429,7 @@ $(function () {
 
     $carousel.appendTo('body').attr('data-modal', 'foobar')
     $('[data-slide]').first().trigger('click')
-    assert.strictEqual($carousel.data('bs.carousel')._config.interval, 1814, 'even if there is an data-modal attribute set')
+    assert.strictEqual($carousel.data('bs.carousel')._config.interval, 1814, 'even if there is a data-modal attribute set')
     $carousel.remove()
 
     $carousel.appendTo('body')
