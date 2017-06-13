@@ -432,7 +432,7 @@ $(function () {
     assert.strictEqual($('.tooltip').length, 0, 'tooltip removed from dom')
   })
 
-  QUnit.test('should not error when trying to show an top-placed tooltip that has been removed from the dom', function (assert) {
+  QUnit.test('should not error when trying to show a top-placed tooltip that has been removed from the dom', function (assert) {
     assert.expect(1)
     var passed = true
     var $tooltip = $('<a href="#" rel="tooltip" title="Another tooltip"/>')
@@ -692,7 +692,7 @@ $(function () {
     assert.strictEqual(currentUid, $('#tt-content').text())
   })
 
-  QUnit.test('should do nothing when an attempt is made to hide an uninitialized tooltip', function (assert) {
+  QUnit.test('should do nothing when an attempt is made to hide a uninitialized tooltip', function (assert) {
     assert.expect(1)
 
     var $tooltip = $('<span data-toggle="tooltip" title="some tip">some text</span>')

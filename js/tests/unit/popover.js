@@ -295,7 +295,7 @@ $(function () {
       .bootstrapPopover('show')
   })
 
-  QUnit.test('should do nothing when an attempt is made to hide an uninitialized popover', function (assert) {
+  QUnit.test('should do nothing when an attempt is made to hide a uninitialized popover', function (assert) {
     assert.expect(1)
 
     var $popover = $('<span data-toggle="popover" data-title="some title" data-content="some content">some text</span>')
