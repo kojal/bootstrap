@@ -315,7 +315,7 @@ The default `margin` on blockquotes is `1em 40px`, so we reset that to `0 0 1rem
 
 <div class="bd-example">
   <blockquote class="blockquote">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat an ante.</p>
     <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
   </blockquote>
 </div>
