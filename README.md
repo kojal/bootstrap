@@ -14,7 +14,7 @@
 
 <br>
 
-## Table of contents
+## Table of contents TYPO AUHTOR
 
 - [Quick start](#quick-start)
 - [Status](#status)
